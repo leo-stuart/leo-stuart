@@ -11,7 +11,7 @@
 ------
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo-stuart&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=00000000" alt="GitHub Stats" width="30.5%" /><img src="https://nirzak-streak-stats.vercel.app/?user=leo-stuart&theme=react&hide_border=true&hide_bg=true" alt="GitHub Streak" width="38.5%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-stuart&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=00000000" alt="Top Languages" width="30.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leo-stuart&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&bg_color=00000000" alt="GitHub Stats" width="30.5%" /><img src="https://nirzak-streak-stats.vercel.app/?user=leo-stuart&theme=algolia&hide_border=true&hide_bg=true" alt="GitHub Streak" width="38.5%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-stuart&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=00000000" alt="Top Languages" width="30.5%" />
 </p>
 
 <div align="center"> 
