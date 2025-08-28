@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Belo Horizonte, Brazil
 * ✉️  You can contact me at [leostuart05@gmail.com](mailto:leostuart05@gmail.com)
-* 🧠  I'm learning React and TypeScript
+* 🧠  I'm learning about GenAI and Agents
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, backend developer or dev rel.
 
 ### Skills
