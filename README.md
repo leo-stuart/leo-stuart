@@ -8,6 +8,7 @@ Software Developer
 * ✉️  You can contact me at [leostuart05@gmail.com](mailto:leostuart05@gmail.com)
 * 🧠  I'm learning about GenAI and Agents
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, backend developer or dev rel.
+* 📱  Checkout my new finance app -> [Monity](https://monity-finance.com)
 
 ### Skills
 
