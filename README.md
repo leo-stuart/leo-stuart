@@ -1,20 +1,28 @@
-Hi 👋 My name is Leo Stuart
-===============================
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
 
-Software Developer
------------------------------
-
-* 🌍  I'm based in Belo Horizonte, Brazil
-* ✉️  You can contact me at [leostuart05@gmail.com](mailto:leostuart05@gmail.com)
-* 🧠  I'm learning about GenAI and Agentic AI
-* 📱  Checkout my new finance app -> [Monity](https://monity-finance.com)
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Stuart;Software+Engineer;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
-### Socials
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leo-stuart&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true" width="100%" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/leo-stuart" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/leonardo-stuart-almeida-ramalho-ab799825a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+<br>
+
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,golang,js,ts"/>
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass"/>
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,npm,express,fastapi"/>
+
+### ☁️ Databases, Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,azure,aws,gcp"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
